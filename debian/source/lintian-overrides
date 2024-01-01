@@ -1,0 +1,5 @@
+python-brotli source: file-without-copyright-information
+python-brotli source: no-debian-changes
+python-brotli source: source-contains-prebuilt-windows-binary
+python-brotli source: source-is-missing
+python-brotli source: source-package-encodes-python-version
